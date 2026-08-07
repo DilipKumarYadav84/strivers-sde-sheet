@@ -42,7 +42,7 @@
 
 // }
 // optimized approach using Moore's Voting Algorithm
-public class Solution {
+public class majorityElementI{ 
     public int majorityElement(int[] nums){
         int count =0;
         int n= nums.length;
